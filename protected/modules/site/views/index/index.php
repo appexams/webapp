@@ -1,0 +1,1 @@
+This is index pages (build from yii 1.1.15)
